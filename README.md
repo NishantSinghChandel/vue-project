@@ -1,6 +1,7 @@
-# my-project
+# Vue project
 
 > A Vue.js project
+A basic project setup for vuejs with vuex and all the required file structure for a small web applications. No need for setup just clone and follow the below instruction.
 
 ## Build Setup
 
